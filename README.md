@@ -1,6 +1,10 @@
 - 👋 Hi, I’m @Snuffules a.k.a. Vladimir Gospodinov
 - 👀 I’m interested in DevOps (DataOps)
-- 🌱 I’m currently learning Python, Consul
+- 🌱 I’m currently working on projects including
+  * Open Shift - ArgoCD
+  * Terraform - wordpress on aws with RDS
+  * MongoDB and NodeJs backend app
+  * Jenkins - Sonarqube - Sonatype Nexus repo - Apache Tomcat web server  
 - 📫 How to reach me:
 https://www.linkedin.com/in/vladimir-gospodinov-3a9b3759/
 
