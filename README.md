@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Snuffules a.k.a. Vladimir Gospodinov
+- 👋 Hi, I’m Vlad G
 - 👀 I’m interested in DevOps (DataOps)
 - 🌱 I’m currently working on projects including
   * Open Shift - ArgoCD
