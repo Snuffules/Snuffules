@@ -1,5 +1,3 @@
-- 👋 Hi, I’m Vlad G
-- 👀 I’m interested in DevOps (DataOps)
 - 🌱 I’m currently working on projects including
   * Open Shift - ArgoCD
   * Terraform - wordpress on aws with RDS
